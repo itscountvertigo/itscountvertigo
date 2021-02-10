@@ -15,7 +15,7 @@ I'm from the Netherlands, and I'm in 5 VWO right now.
 ### 🌱 I'm currently learning:
 C!
 
-### 💬 You can reache me at:
+### 💬 You can reach me at:
 - @itscountvertigo on Twitter
 - @itscountvertigo#5867 on Discord
 - itscountvertigo@protonmail.com

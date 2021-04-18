@@ -6,16 +6,16 @@ I'm Anbiya. I started "programming" with Scratch, and I started programming with
 
 I'm from the Netherlands, and I'm in 5 VWO right now.
 
-## Languages
+## 💬 Languages
 
 - Python
 - Node.JS
 - Basic HTML/CSS
 
 ### 🌱 I'm currently learning:
-C!
+C! i don't understand anything
 
-### 💬 You can reach me at:
+### 📮 You can reach me at:
 - @itscountvertigo on Twitter
 - @itscountvertigo#5867 on Discord
 - itscountvertigo@protonmail.com

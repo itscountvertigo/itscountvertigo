@@ -13,7 +13,7 @@ I'm from the Netherlands, and I'm in 5 VWO right now.
 - Basic HTML/CSS
 
 ### 🌱 I'm currently learning:
-C! i don't understand anything
+Unity 2D (and C# for Unity)
 
 ### 📮 You can reach me at:
 - @itscountvertigo on Twitter

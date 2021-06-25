@@ -7,11 +7,12 @@ I'm Anbiya. I'm from the Netherlands, and I'm in 5 VWO right now.
 ## 💬 Languages
 - Python
 - Node.JS
+- Processing
 - HTML/CSS
 - Arduino
 
 ### 🌱 I'm currently learning:
-Unity 2D (and C# for Unity)
+Generative Art with Processing
 
 ### 📮 You can reach me at:
 - @itscountvertigo on Twitter

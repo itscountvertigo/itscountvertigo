@@ -15,6 +15,7 @@ I'm Anbiya. I'm from the Netherlands, and I'm in 5 VWO right now.
 Generative Art with Processing
 
 ### 📮 You can reach me at:
+- @itscountvertigo on Instagram (where I sometimes post generative art)
 - @itscountvertigo on Twitter
 - @itscountvertigo#5867 on Discord
 - itscountvertigo@protonmail.com

@@ -1,8 +1,8 @@
-### Hi there! 👋
+### Hello! 👋
 
 <!-- **itscountvertigo/itscountvertigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm Anbiya. I'm from the Netherlands, and I'm in 5 VWO right now.
+I'm Anbiya. I'm 17 years old, from the Netherlands, and I'm in 6 VWO right now.
 
 ## 💬 Languages
 - Python

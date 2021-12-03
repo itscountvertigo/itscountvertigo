@@ -12,7 +12,7 @@ I'm Anbiya. I'm 17 years old, from the Netherlands, and I'm in 6 VWO right now.
 - Arduino
 
 ### 🌱 I'm currently learning:
-Generative Art with Processing
+C#
 
 ### 📮 You can reach me at:
 - @itscountvertigo on Instagram (where I sometimes post generative art)

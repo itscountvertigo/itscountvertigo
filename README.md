@@ -2,7 +2,7 @@
 
 <!-- **itscountvertigo/itscountvertigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm Anbiya. I'm 18 years old, from the Netherlands, and I'm in 6 VWO right now.
+I'm Anbiya. I'm 18 years old, from the Netherlands, and I'm in my first year of Electrical Engineering at TU Eindhoven!
 
 ## 💬 Languages
 - Python

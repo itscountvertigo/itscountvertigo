@@ -6,13 +6,11 @@ I'm Anbiya. I'm 18 years old, from the Netherlands, and I'm in my first year of 
 
 ## 💬 Languages
 - Python
+- C
 - Node.JS
 - Processing
 - HTML/CSS
 - Arduino
-
-### 🌱 I'm currently learning:
-C#
 
 ### 📮 You can reach me at:
 - @itscountvertigo on Instagram (where I sometimes post generative art)
